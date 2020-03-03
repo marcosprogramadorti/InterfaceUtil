@@ -1,0 +1,2 @@
+# InterfaceUtil
+Interfaces Java útil  
